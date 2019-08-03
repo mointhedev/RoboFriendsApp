@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1878255.chunk.css",
+    "main.js": "/static/js/main.a992f5fb.chunk.js",
+    "main.js.map": "/static/js/main.a992f5fb.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.e93fd954.chunk.js": "/static/js/2.e93fd954.chunk.js",
+    "static/js/2.e93fd954.chunk.js.map": "/static/js/2.e93fd954.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5784fc3ccc6ccdca4cd707af1b9be541.js": "/precache-manifest.5784fc3ccc6ccdca4cd707af1b9be541.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.e1878255.chunk.css.map": "/static/css/main.e1878255.chunk.css.map",
+    "static/media/App.css": "/static/media/SEGA.12a3db8b.woff"
+  }
+}

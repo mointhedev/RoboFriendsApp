@@ -1,0 +1,23 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+h1 {
+	font-family: 'SEGA LOGO FONT';
+	font-weight:200;
+	color: #0ccac4;
+}
+
+.bg-purplenew {
+	background-image: radial-gradient( circle farthest-corner at 23.1% 64.6%,  rgba(129,125,254,1) 0%, rgba(111,167,254,1) 90% );
+	transition: all .1s ease-in-out;
+}
+
+.bg-purplenew:hover{
+	box-shadow: 0 4px 8px 0 #7f00ff, 0 6px 20px 0 #e100ff;
+	transform: scale(1.03);
+	background-position: right center;
+}
